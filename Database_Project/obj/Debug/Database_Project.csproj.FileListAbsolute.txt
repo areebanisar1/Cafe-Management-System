@@ -1,0 +1,76 @@
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\bin\Debug\Database_Project.exe.config
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\bin\Debug\Database_Project.exe
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\bin\Debug\Database_Project.pdb
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.csproj.AssemblyReference.cache
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.csproj.SuggestedBindingRedirects.cache
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Properties.Resources.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.csproj.GenerateResource.cache
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.csproj.CoreCompileInputs.cache
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.exe
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.pdb
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Login.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.SignUp.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Dashboard.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Check_item.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Add_Staff.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Manage_food_items.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.New_item.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Place_order.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Update_Item.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Book_table.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Project.Customer_Dashboard.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.View_Menu.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Remove.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Staff_dashboard.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Take_order.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Shipper.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Customer_home.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Promotions.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Submit_Feedback.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Check_Feedback.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Feedback.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Cafe_statistics.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Customer_Statistics.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Staff_statistics.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Cash_payment.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Order_payment.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Card_Payment.resources
+F:\Semester 4\BPE\Final Project\Database_Project\Database_Project\obj\Debug\Database_Project.Online_Payment.resources
+F:\Semester 4\DB\Database_Project\Database_Project\bin\Debug\Database_Project.exe.config
+F:\Semester 4\DB\Database_Project\Database_Project\bin\Debug\Database_Project.exe
+F:\Semester 4\DB\Database_Project\Database_Project\bin\Debug\Database_Project.pdb
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.csproj.AssemblyReference.cache
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.csproj.SuggestedBindingRedirects.cache
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Book_table.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Cafe_statistics.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Card_Payment.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Cash_payment.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Check_Feedback.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Check_item.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Project.Customer_Dashboard.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Customer_home.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Customer_Statistics.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Feedback.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Online_Payment.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Order_payment.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Staff_statistics.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Submit_Feedback.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Login.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Add_Staff.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Manage_food_items.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Promotions.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Remove.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Shipper.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Staff_dashboard.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Take_order.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.View_Menu.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.New_item.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Place_order.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.SignUp.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Dashboard.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Properties.Resources.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.Update_Item.resources
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.csproj.GenerateResource.cache
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.csproj.CoreCompileInputs.cache
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.exe
+F:\Semester 4\DB\Database_Project\Database_Project\obj\Debug\Database_Project.pdb
